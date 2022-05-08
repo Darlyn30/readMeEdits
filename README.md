@@ -1,4 +1,3 @@
-Hi, I am @Darlyn30`
-`I am interested in...
-I am currently learning Software Devoloper
-How to reach me darlynolivop@gmail.com
+👋 Hi, I’m @DarlynOlivo
+👀 I’m interested in Web Devolpment
+🌱 I’m currently learning BackEnd(JavaScript, HTML, CSS)
