@@ -1,0 +1,22 @@
+h1{
+    background-color:yellowgreen;
+    font-size: 30px;
+    margin: 50px 50px;
+    font-weight: bold;
+    font: arial;
+}
+button{
+    text-decoration: none;
+    background-color: yellowgreen;
+}
+body{
+    background-color: coral;
+    background: url(https://imgs.search.brave.com/3HQvun__u2u0bZzsg18E14BB1k67P1kscwzWKHS_LSk/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzZXQuY29t/L3cvZnVsbC9hL2Uv/Ni8yMjU2OTguanBn);
+}
+ul li a{
+    text-decoration: none;
+}
+
+h2{
+    margin: 50px 200px;
+}
